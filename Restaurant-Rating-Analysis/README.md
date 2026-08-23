@@ -1,4 +1,4 @@
-# Restaurant Rating Analysis - EDA & Preprocessing
+## Restaurant Rating Analysis - EDA & Preprocessing
 
 Exploratory Data Analysis and data preprocessing task focusing on:
 - Dataset dimensions and summary statistics
